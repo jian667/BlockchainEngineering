@@ -1,0 +1,55 @@
+Peer_7:basic INFO 1.5536436584030435: Connecting to Peer_2:basic
+Peer_7:basic INFO 1.6447854512042779: Connecting to Peer_2:basic
+Peer_7:basic INFO 1.8968815442780906: Received message <Hello:> from Peer_1:basic
+Peer_7:basic INFO 1.8968815442780906: Connecting to Peer_1:basic
+Peer_7:basic INFO 1.8968815442780906: Sending message <Hello:> to Peer_1:basic
+Peer_7:basic INFO 1.9680545817228021: Connecting to Peer_3:basic
+Peer_7:basic INFO 2.2224567337873515: Received message <Hello:> from Peer_3:basic
+Peer_7:basic INFO 2.347664869090125: Received message <Hello:> from Peer_6:basic
+Peer_7:basic INFO 2.347664869090125: Connecting to Peer_6:basic
+Peer_7:basic INFO 2.347664869090125: Sending message <Hello:> to Peer_6:basic
+Peer_7:basic INFO 2.4373670445640068: Received message <Hello:> from Peer_2:basic
+Peer_7:basic INFO 3.3335849636473274: Received message <Hello:> from Peer_2:basic
+Peer_7:basic INFO 3.530459407940853: Received message <Hello:> from Peer_3:basic
+Peer_7:basic INFO 4.021724480170981: Received message <Hello:> from Peer_2:basic
+Peer_7:basic INFO 5.451514226905493: Received message <Hello:> from Peer_2:basic
+Peer_7:basic INFO 1000: Sending message <Ping:> to Peer_2:basic
+Peer_7:basic INFO 1000: Sending message <Ping:> to Peer_2:basic
+Peer_7:basic INFO 1000: Sending message <Ping:> to Peer_1:basic
+Peer_7:basic INFO 1000: Sending message <Ping:> to Peer_3:basic
+Peer_7:basic INFO 1000: Sending message <Ping:> to Peer_6:basic
+Peer_7:basic INFO 1000.7615461311865: Received message <Ping:> from Peer_1:basic
+Peer_7:basic INFO 1000.7615461311865: Sending message <Pong:> to Peer_1:basic
+Peer_7:basic INFO 1001.5904584263718: Received message <Ping:> from Peer_3:basic
+Peer_7:basic INFO 1001.5904584263718: Sending message <Pong:> to Peer_3:basic
+Peer_7:basic INFO 1002.2098579317407: Received message <Ping:> from Peer_2:basic
+Peer_7:basic INFO 1002.2098579317407: Sending message <Pong:> to Peer_2:basic
+Peer_7:basic INFO 1002.8652591383234: Received message <Pong:> from Peer_1:basic
+Peer_7:basic INFO 1003.3880464973813: Received message <Pong:> from Peer_3:basic
+Peer_7:basic INFO 1003.5458418295814: Received message <Ping:> from Peer_6:basic
+Peer_7:basic INFO 1003.5458418295814: Sending message <Pong:> to Peer_6:basic
+Peer_7:basic INFO 1004.0937953130438: Received message <Ping:> from Peer_2:basic
+Peer_7:basic INFO 1004.0937953130438: Sending message <Pong:> to Peer_2:basic
+Peer_7:basic INFO 1004.259849885: Received message <Pong:> from Peer_2:basic
+Peer_7:basic INFO 1006.1773355436592: Received message <Pong:> from Peer_2:basic
+Peer_7:basic INFO 1008.5781705748791: Received message <Pong:> from Peer_6:basic
+Peer_7:basic INFO 2000: Sending message <Ping:> to Peer_2:basic
+Peer_7:basic INFO 2000: Sending message <Ping:> to Peer_2:basic
+Peer_7:basic INFO 2000: Sending message <Ping:> to Peer_1:basic
+Peer_7:basic INFO 2000: Sending message <Ping:> to Peer_3:basic
+Peer_7:basic INFO 2000: Sending message <Ping:> to Peer_6:basic
+Peer_7:basic INFO 2001.0022284637018: Received message <Ping:> from Peer_2:basic
+Peer_7:basic INFO 2001.0022284637018: Sending message <Pong:> to Peer_2:basic
+Peer_7:basic INFO 2001.7523555478863: Received message <Ping:> from Peer_1:basic
+Peer_7:basic INFO 2001.7523555478863: Sending message <Pong:> to Peer_1:basic
+Peer_7:basic INFO 2002.57440836807: Received message <Pong:> from Peer_2:basic
+Peer_7:basic INFO 2002.8332363610484: Received message <Ping:> from Peer_6:basic
+Peer_7:basic INFO 2002.8332363610484: Sending message <Pong:> to Peer_6:basic
+Peer_7:basic INFO 2003.2229038243024: Received message <Ping:> from Peer_2:basic
+Peer_7:basic INFO 2003.2229038243024: Sending message <Pong:> to Peer_2:basic
+Peer_7:basic INFO 2003.2728505503333: Received message <Pong:> from Peer_6:basic
+Peer_7:basic INFO 2003.3096194061206: Received message <Ping:> from Peer_3:basic
+Peer_7:basic INFO 2003.3096194061206: Sending message <Pong:> to Peer_3:basic
+Peer_7:basic INFO 2003.6408487305298: Received message <Pong:> from Peer_3:basic
+Peer_7:basic INFO 2004.6730696892203: Received message <Pong:> from Peer_1:basic
+Peer_7:basic INFO 2006.3272072668808: Received message <Pong:> from Peer_2:basic
